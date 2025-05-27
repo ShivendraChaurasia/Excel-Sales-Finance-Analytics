@@ -66,7 +66,7 @@ https://github.com/ShivendraChaurasia/Excel-Sales-Finance-Analytics/blob/main/Ma
 
 Finance Reports:
 1) P & L for Markets
-https://github.com/Chikusarath/Excel-Sales-Finance-Analytics/blob/main/P%26L_For_Markets.pdf
+https://github.com/ShivendraChaurasia/Excel-Sales-Finance-Analytics/blob/main/P%20%26%20L%20Year%20(Markets).pdf
 
 2) P & L By Fiscal Year
 https://github.com/Chikusarath/Excel-Sales-Finance-Analytics/blob/main/P%26L_By_FiscalYears.pdf
