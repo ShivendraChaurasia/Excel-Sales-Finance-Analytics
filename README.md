@@ -23,7 +23,7 @@ Tool Used: Power Pivot in Excel
 
 - Approach: Created relationships between datasets, enabling comprehensive analysis across different dimensions such as time, region, and product category.
 - Outcome: Built dynamic data models that facilitated multi-faceted analysis and enhanced reporting capabilities.
-- 
+  
 **3. Sales Analytics:**
   
 Focus Areas:
