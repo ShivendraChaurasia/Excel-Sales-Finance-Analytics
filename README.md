@@ -62,7 +62,7 @@ Tools Used: Excel (Pivot Tables)
 https://github.com/ShivendraChaurasia/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf
 
 2) Market Performance Vs Target Report
-https://github.com/Chikusarath/Excel-Sales-Finance-Analytics/blob/main/Market_Vs_Target%20Report.pdf
+https://github.com/ShivendraChaurasia/Excel-Sales-Finance-Analytics/blob/main/Market%20Performance%20vs%20Targets.pdf
 
 Finance Reports:
 1) P & L for Markets
