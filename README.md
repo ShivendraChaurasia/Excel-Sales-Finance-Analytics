@@ -72,7 +72,7 @@ https://github.com/ShivendraChaurasia/Excel-Sales-Finance-Analytics/blob/main/P%
 https://github.com/ShivendraChaurasia/Excel-Sales-Finance-Analytics/blob/main/P%20%26%20L%20Year%20By%20Fiscal%20Years.pdf
 
 3) P & L By Fiscal Months
-https://github.com/Chikusarath/Excel-Sales-Finance-Analytics/blob/main/P%26L_By_FiscalMonths.pdf
+https://github.com/ShivendraChaurasia/Excel-Sales-Finance-Analytics/blob/main/P%20%26%20L%20Months%20By%20Fiscal%20Months.pdf
 
 **The Power of Data Analytics:**
 
